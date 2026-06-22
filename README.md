@@ -40,7 +40,7 @@ Organizations benefit from cost-effective communication solutions that support o
 
 ## High-Performance Industrial Fiber Switch
 
-An ]industrial fiber switch](https://www.versitron.com/products/sf70660-6port-unmanaged-industrial-switch-4101001000-21001g-sfp-slots) enables long-distance communications across fiber optic infrastructures while maintaining dependable connectivity between remote facilities and centralized network locations. Fiber switching technologies help support communication requirements in geographically distributed environments.
+An [industrial fiber switch](https://www.versitron.com/products/sf70660-6port-unmanaged-industrial-switch-4101001000-21001g-sfp-slots) enables long-distance communications across fiber optic infrastructures while maintaining dependable connectivity between remote facilities and centralized network locations. Fiber switching technologies help support communication requirements in geographically distributed environments.
 
 Utility operators, transportation authorities, and government agencies frequently deploy fiber networking technologies to improve communication reach and support infrastructure modernization initiatives. Fiber connectivity provides greater flexibility and scalability for operational networks.
 
